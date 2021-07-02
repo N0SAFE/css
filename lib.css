@@ -794,16 +794,24 @@
     color: black;
 }
 
+.color-grey {
+    color: grey;
+}
+
 .bg-color-pink {
-    background-color: #E2329F;
+    background: #E2329F;
 }
 
 .bg-color-white {
-    background-color: white;
+    background: white;
 }
 
 .bg-color-black {
-    background-color: black;
+    background: black;
+}
+
+.bg-color-grey {
+    background: grey;
 }
 
 .block{
@@ -1017,4 +1025,7 @@
             }
         }
     }
+}
+.line-height-0 {
+    line-height: 0;
 }
